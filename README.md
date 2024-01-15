@@ -12,7 +12,7 @@ I love code!
 * 🚀  I'm currently working on [RawStats](http://github.com/huykaiser/rawstats)
 * 🧠  I'm learning YOLO, 3D-Technology, ML, Design Pattern
 * 🤝  I'm open to collaborating on Other SaaS projects!
-* ⚡  I'm Bitcoin Hodler
+* 🪙  I'm Bitcoin Hodler
 
 ### Skills
 
